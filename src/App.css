@@ -39,14 +39,11 @@
 }
 
 .textPoke {
-  margin: auto;
-  font-size: large;
-  color: rgb(228, 228, 225);
-  opacity: 0.9;
+  margin-top: 20%;
+  font-size: 2em;
 }
 
 .fontPoke {
-  font-family: 'Pokemon Solid', sans-serif;
-  text-shadow: 2px 2px #2b0b0b;
+  font-family: 'Times New Roman', Times, serif;
   text-decoration: none;
 }

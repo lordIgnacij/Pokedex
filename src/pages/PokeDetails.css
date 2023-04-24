@@ -21,7 +21,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(163, 167, 163);
+    color: white;
   }
   
   .card-title {
@@ -29,7 +29,6 @@
     font-size: 24px;
     margin: 0;
     text-transform: uppercase;
-    text-shadow: 0 0 4px rgb(0, 0, 0);
   }
   
   .card-subtitle {
@@ -77,6 +76,5 @@
     justify-content: space-between;
     margin-top: 16px;
     width: 100%;
-    background-color: rgb(188, 187, 187);
     padding: 5px;
   }

@@ -13,7 +13,6 @@
 .buttonContainer {
     display: flex;
     flex-direction: row;
-    background-color: blue;
     justify-content: space-around;
 }
 
