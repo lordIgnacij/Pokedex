@@ -1,0 +1,46 @@
+cardThumb {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 175px;
+    height: 105px;
+    background-color: rgb(163, 167, 163);
+    border: 1px, solid, rgb(71, 180, 71);
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    opacity: 0.9;
+}
+
+.line1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    padding-bottom: 2%;
+    padding-right: 25%;
+    padding-top: 10%
+}
+
+.id {
+    padding-right: 30%;
+}
+
+.line2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+}
+
+.font {
+    font-family: 'Pokemon Solid', sans-serif;
+    color: rgb(244, 242, 240);
+    letter-spacing: 5px;
+    font-size: 12px;
+}

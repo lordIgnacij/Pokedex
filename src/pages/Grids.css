@@ -1,0 +1,31 @@
+.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: space-around;
+    padding-left: 9%;
+    width: 80%;
+    height: 60%;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+@import url('https://fonts.cdnfonts.com/css/pokemon-solid');
+
+.text {
+    font-size: x-large;
+    color: rgb(150, 150, 77);
+    opacity: 0.9;
+}
+
+.font {
+    font-family: 'Pokemon Solid', sans-serif;
+    text-shadow: 2px 2px #2b0b0b;
+    text-decoration: none;
+}

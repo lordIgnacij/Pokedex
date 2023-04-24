@@ -1,0 +1,84 @@
+.card {
+    background-color: rgb(163, 167, 163);
+    opacity: 0.87;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    max-width: 400px;
+    padding: 8px;
+  }
+  
+  .card-artwork {
+    border-radius: 10%;
+    height: 200px;
+    margin-right: 16px;
+    width: 200px;
+  }
+  
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(163, 167, 163);
+  }
+  
+  .card-title {
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+    text-transform: uppercase;
+    text-shadow: 0 0 4px rgb(0, 0, 0);
+  }
+  
+  .card-subtitle {
+    font-size: 16px;
+    margin: 0;
+    text-transform: uppercase;
+  }
+  
+  .card-stat {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 4px 0;
+  }
+  
+  .card-stat-label {
+    font-size: 14px;
+    margin-right: 8px;
+    text-transform: uppercase;
+  }
+  
+  .card-stat-value {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .card-flavor-text {
+    font-size: 14px;
+    margin-top: 16px;
+    text-align: justify;
+    font-style: italic;
+  }
+  
+  .card-stat-list {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 16px;
+    width: 100%;
+    background-color: yellow;
+    padding: 5px;
+  }
+  
+  .card-flavor-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+    width: 100%;
+    background-color: rgb(188, 187, 187);
+    padding: 5px;
+  }
