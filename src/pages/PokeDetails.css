@@ -1,10 +1,9 @@
 .card {
-    background-color: rgb(163, 167, 163);
-    opacity: 0.87;
+    background-color: white;
     display: flex;
     flex-direction: row;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 10%;
     margin-bottom: 2%;
     max-width: 400px;
     padding: 8px;

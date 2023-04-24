@@ -60,7 +60,7 @@ function Grid() {
   return (
     <div>
       <div>
-        <p className="text font">Welcome to Pokédex!</p>
+        <p className="text font">Pokedex!</p>
       </div>
       <div className="grid">
         {pokemons.map((p) => (
@@ -74,10 +74,10 @@ function Grid() {
           color="error"
           onClick={handlePrevious}
         >
-          Previous
+          Back
         </Button>
         <Link className="font" to="/Pokedex/about">
-          More about pokemons
+          Info
         </Link>
         <Button
           className="font text"
