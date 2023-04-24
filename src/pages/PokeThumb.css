@@ -3,10 +3,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 175px;
+    width: 300px;
     height: 105px;
-    background-color: rgb(163, 167, 163);
-    border: 1px, solid, rgb(71, 180, 71);
+    background-color: white;
     border-radius: 10px;
     margin-bottom: 5px;
     margin-right: 5px;
@@ -39,8 +38,8 @@
 }
 
 .font {
-    font-family: 'Pokemon Solid', sans-serif;
-    color: rgb(244, 242, 240);
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
     letter-spacing: 5px;
-    font-size: 12px;
+    font-size: 20px;
 }
